@@ -1,5 +1,5 @@
 👋 Hey everyone, I'm Ebru
-An aspiring software developer with a growing interest in frontend development and QA testing.While I'm still on my journey to becoming a full-fledged developer, I'm dedicated to learning and improving my skills every day. I enjoy creating intuitive, responsive web interfaces and ensuring their quality through rigorous testing.
+an aspiring software developer with a growing interest in frontend development and QA testing.While I'm still on my journey to becoming a full-fledged developer, I'm dedicated to learning and improving my skills every day. I enjoy creating intuitive, responsive web interfaces and ensuring their quality through rigorous testing.
 
 
 <p align="center">
