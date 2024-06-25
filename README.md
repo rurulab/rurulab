@@ -7,9 +7,10 @@ I am an aspiring software developer with a growing interest in frontend developm
 </p>
 
 <p align="center">
-	<a href="https://github.com/rurulab/github-readme-stats">
+	<a href="javascript:void(0);">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rurulab&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages">
 	</a>
+	
 </p>
 <!--
 Hi i'm Ebru 
