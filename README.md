@@ -1,7 +1,18 @@
-## Hi there 👋
+👋 Hey everyone, I'm Ebru
+I am an aspiring software developer with a growing interest in frontend development and QA testing.While I'm still on my journey to becoming a full-fledged developer, I'm dedicated to learning and improving my skills every day. I enjoy creating intuitive, responsive web interfaces and ensuring their quality through rigorous testing.
 
+
+<p align="center">
+	<img src="https://www.codewars.com/users/rruru/badges/large">
+</p>
+
+<p align="center">
+	<a href="https://github.com/rurulab/github-readme-stats">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rurulab&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages">
+	</a>
+</p>
 <!--
-**rurulab/rurulab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi i'm Ebru 
 
 Here are some ideas to get you started:
 
@@ -14,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
