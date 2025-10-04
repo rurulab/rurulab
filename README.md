@@ -1,6 +1,5 @@
 👋 Hey everyone, I'm Ebru
-an aspiring software developer with a growing interest in frontend development and QA testing.While I'm still on my journey to becoming a full-fledged developer, I'm dedicated to learning and improving my skills every day. I enjoy creating intuitive, responsive web interfaces and ensuring their quality through rigorous testing.
-
+I'm a Frontend Developer specializing in React & TypeScript. I have experience with Redux state management, styled-components, and building responsive UIs. Learning backend to level up to full-stack!
 
 <p align="center">
 	<img src="https://www.codewars.com/users/rruru/badges/large">
