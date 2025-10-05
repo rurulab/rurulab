@@ -1,5 +1,5 @@
 👋 Hey everyone, I'm Ebru
-I'm a Frontend Developer specializing in React & TypeScript. I have experience with Redux state management, styled-components, and building responsive UIs. Learning backend to level up to full-stack!
+A Frontend Developer specializing in React & TypeScript. I have experience with Redux state management, styled-components, and building responsive UIs. Learning backend to level up to full-stack!
 
 <p align="center">
 	<img src="https://www.codewars.com/users/rruru/badges/large">
